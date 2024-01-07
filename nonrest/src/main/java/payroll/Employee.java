@@ -21,7 +21,7 @@ class Employee {
 
 	Employee(String name, String role) {
 
-		this.name = name1;
+		this.name = name;
 		this.role = role;
 	}
 
