@@ -14,8 +14,8 @@ import javax.persistence.Id;
 class Employee {
 
 	private @Id @GeneratedValue Long id;
-	private String name;
-	private String role;
+	private String name1;
+	private String role1;
 
 	Employee() {}
 
